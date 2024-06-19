@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbitx=self.webpackChunkbitx||[]).push([[824],{1824:(e,b,s)=>{s.d(b,{BigNumber:()=>u.B});var u=s(6865)}}]);
