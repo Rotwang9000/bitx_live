@@ -1,0 +1,5 @@
+/*! micro-key-producer - MIT License (c) 2024 Paul Miller (paulmillr.com) */
+
+/*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
